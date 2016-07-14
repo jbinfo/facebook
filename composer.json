@@ -14,7 +14,7 @@
             "name": "Lhassan Baazzi",
             "email": "baazzilhassan@gmail.com",
             "homepage": "http://www.baazzilhassan.me/"
-        },
+        }
     ],
     "require": {
         "php": ">=5.2.0",
